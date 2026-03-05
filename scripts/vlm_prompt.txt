@@ -1,0 +1,1 @@
+On a scale from 0-10, how well did this agent perform? Important aspects to take into account may include how smooth/natural/human the trajectory feels, or the compentency in terms of task completion. The task here is to pick up and place the object into the goal area.
